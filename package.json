@@ -146,7 +146,7 @@
     "power-assert": "^1.6.0",
     "prettier": "^1.14.3",
     "puppeteer": "^1.7.0",
-    "react-test-renderer": "^16.4.1",
+    "react-test-renderer": "^16.6.2",
     "redux-devtools": "^3.4.1",
     "redux-devtools-dock-monitor": "^1.1.2",
     "redux-devtools-log-monitor": "^1.3.0",
