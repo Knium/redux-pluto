@@ -123,7 +123,7 @@
     "@types/recompose": "^0.30.0",
     "@types/redux-actions": "^2.3.1",
     "@types/redux-form": "^7.4.12",
-    "@types/styled-components": "^4.1.2",
+    "@types/styled-components": "^4.1.4",
     "agreed": "^3.2.0",
     "assert-stream": "^1.1.1",
     "babel-core": "7.0.0-bridge.0",
