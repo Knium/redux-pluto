@@ -122,7 +122,7 @@
     "@types/react-virtualized": "^9.18.11",
     "@types/recompose": "^0.30.0",
     "@types/redux-actions": "^2.3.1",
-    "@types/redux-form": "^7.4.12",
+    "@types/redux-form": "^7.4.13",
     "@types/styled-components": "^4.1.2",
     "agreed": "^3.2.0",
     "assert-stream": "^1.1.1",
