@@ -140,7 +140,7 @@
     "@types/redux-form": "^7.4.13",
     "@types/seamless-immutable": "^7.1.5",
     "@types/serve-favicon": "^2.2.30",
-    "@types/styled-components": "^4.1.2",
+    "@types/styled-components": "^4.1.10",
     "@types/webpack": "^4.4.21",
     "@typescript-eslint/eslint-plugin": "^1.1.1",
     "@typescript-eslint/parser": "^1.1.1",
