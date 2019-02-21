@@ -109,7 +109,7 @@
     "@storybook/addon-actions": "^4.1.13",
     "@storybook/addons": "^4.1.13",
     "@storybook/core": "^4.0.0",
-    "@storybook/react": "^4.0.0",
+    "@storybook/react": "^4.1.13",
     "@types/axios": "^0.14.0",
     "@types/compression": "0.0.36",
     "@types/cookie": "^0.3.2",
