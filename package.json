@@ -144,7 +144,7 @@
     "@types/styled-components": "^4.1.2",
     "@types/webpack": "^4.4.21",
     "@typescript-eslint/eslint-plugin": "^1.1.1",
-    "@typescript-eslint/parser": "^1.1.1",
+    "@typescript-eslint/parser": "^1.4.2",
     "agreed": "^3.2.1",
     "agreed-core": "^3.2.2",
     "agreed-typed": "^1.0.0",
